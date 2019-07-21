@@ -1,0 +1,43 @@
+body {
+    /*background-image: url("images/background1.jpg");*/
+    background-color: #2B1F32;
+    background-size: 1980px 1080px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Neucha', cursive;
+}
+
+.nav-main-bar {
+    margin-left: 930px;
+    text-align: center;
+    width: 600px;
+    list-style: none;
+    color: black;
+    font-size: 30px;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.nav-bar {
+    background-color: white;
+    display: inline-block;
+    padding: 0px 5px 0px 5px;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: #2B1F32;
+}
+
+.sub-heading {
+    text-align: center;
+    margin-top: -60px;
+    margin-left: 530px;
+    width: 480px;
+    padding-left: 5px;
+    border: dashed;
+    border-width: 2px;
+    color: white;
+    font-family: 'Neucha', cursive;
+}
